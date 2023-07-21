@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hi
 hell
-=======
-hi word
->>>>>>> d9796da6968ea6e8e0e6f75a33de5dd6a99cbb17
